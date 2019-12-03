@@ -1,2 +1,2 @@
-# airports
-In-class demo of version control with GitHub
+# Version Control
+Introduction to Web Design project files
